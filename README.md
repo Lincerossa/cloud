@@ -1,7 +1,12 @@
 
 ## 🤖 Quick Start
 ```bash
-net
   npm install
   npm start
+```
+
+
+## ✅ Tests
+```bash
+  npm run test
 ```
